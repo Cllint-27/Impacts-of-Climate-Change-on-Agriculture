@@ -11,9 +11,10 @@
 4. [Methodology](#methodology)  
 5. [Key Performance Indicators and Insights](#key-performance-indicators-and-insights)  
 6. [Tools Used](#tools-used)
-7. [Applications](#applications) 
-8. [Recommendations](#recommendations)  
-9. [Disclaimer](#disclaimer)  
+7. [Applications](#applications)
+8. [Dashboard](#dashboard) 
+9. [Recommendations](#recommendations)
+10. [Disclaimer](#disclaimer)  
 
 ---
 
@@ -104,6 +105,12 @@ Excel was chosen for its accessibility, ease of use, and ability to handle struc
 - Machine learning models for predicting crop yield under varying climate scenarios.  
 - Policy discussions on agricultural resilience, climate adaptation, and sustainability.  
 - Educational material for students in environmental studies and data science.  
+
+---
+
+## Dashboard
+
+<img width="1839" height="841" alt="image" src="https://github.com/user-attachments/assets/d4f84c85-328d-41b8-b60b-a2b8bb71588b" />
 
 ---
 
